@@ -6,3 +6,8 @@ Profiles REST API course code.
 ```bash
 vagrant up
 ```
+
+*To connect:
+```bash
+vagrant ssh
+```
